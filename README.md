@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppedrosabutron/ "_blank")
 
-
+<a href="[http://example.com/](https://www.linkedin.com/in/ppedrosabutron/)" target="_blank">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]</a>
 <!--
 
 🔭 **Currently working on:** React, Node.js, MongoDB
