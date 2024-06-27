@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pablo Pedrosa Butrón
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ppedrosabutron]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppedrosabutron/)
 <!--
 
 🔭 **Currently working on:** React, Node.js, MongoDB
