@@ -1,25 +1,24 @@
 # Hi 👋, I'm Pablo Pedrosa Butrón
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppedrosabutron/ "_blank")
-
-<a href="[http://example.com/](https://www.linkedin.com/in/ppedrosabutron/)" target="_blank">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]</a>
-<!--
-
 🔭 **Currently working on:** React, Node.js, MongoDB
+
+💬 **Ask me about:** React, Node.js, MongoDB
 
 🌱 **Learning:** Next.js
 
-☁️ **Interest:** 
+☁️ **Interest:** AI
 
-📝 **Articles:** Regularly write on [Hashnode](https://hashnode.com/@1010nishant)
-
-💬 **Ask me about:** AWS, React, React Native, Node.js, MongoDB
 
 📫 **Reach me:** 
-- Email: nishantjangid6377@gmail.com
-- Discord: 1010nishant
+- Email: ppedrosadev@gmail.com
+- Discord: ppedrosa
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppedrosabutron/ "_blank")
 
 ---
+<!--
+
 
 ### Mark streak 🏆
 
